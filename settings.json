@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "afkbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Come_back_Storm_SMP.aternos.me",
+    "port": 61340,
     "version": "1.20.1",
     "try-creative": false
   },
